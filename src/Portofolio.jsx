@@ -139,7 +139,7 @@ function Portofolio() {
       <div className="kata-pengantar" id="katapengantar">
         <h1>DRS. MOH SELKET GANI</h1>
         <div className="kata-pak-gani-div">
-          <img src="../public/images/kepsek.png" alt="kepsek smpn 1 gili genting" className="kepsek-images" />
+          <img src="/images/kepsek.png" alt="kepsek smpn 1 gili genting" className="kepsek-images" />
           <div className="pg-kata">
             <p>
               <strong>Drs. Moh. Selket Gani</strong><br /><br />
@@ -172,7 +172,7 @@ function Portofolio() {
         <div className="container-info">
           <h1 className="info-judul">INFORMASI UTAMA</h1>
           <div className="info-card">
-            <img src="../public/images/paper-blank.png" alt="not found?" style={{ width: '50% '}} />
+            <img src="/images/paper-blank.png" alt="not found?" style={{ width: '50% '}} />
             <div className="in-informasi-div">
               <h1>Refleksi<br></br>Obser Kelas</h1>
               <h4>Tujuan utama dari refleksi observasi kelas adalah untuk menjembatani celah antara perencanaan pembelajaran dan realita di kelas. Melalui refleksi ini, guru dapat mengidentifikasi pola instruksional yang efektif serta mengenali hambatan yang muncul saat interaksi dengan siswa. Proses ini bertujuan untuk meningkatkan kualitas pengajaran secara berkelanjutan (continuous improvement) demi menciptakan lingkungan belajar yang lebih berpusat pada murid."</h4>
@@ -180,7 +180,7 @@ function Portofolio() {
             </div>
           </div>
           <div className="info-card">
-            <img src="../public/images/grafitikasi-smbp.png" alt="not found?" style={{ width: '50% '}} />
+            <img src="/images/grafitikasi-smbp.png" alt="not found?" style={{ width: '50% '}} />
             <div className="in-informasi-div">
               <h1>STOP GRATIFIKASI SPMB 2025/2026</h1>
               <h4>stop GRATIFIKASI
